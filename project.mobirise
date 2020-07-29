@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Cockpit",
-    "currentPage": "page1.html",
+    "currentPage": "staffapplications.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -769,10 +769,10 @@
         }
       ]
     },
-    "page1.html": {
+    "staffapplications.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Page 1",
+        "meta_descr": "Apply for The Cockpit Staff here",
+        "title": "Staff Applications",
         "order": 1
       },
       "components": [
