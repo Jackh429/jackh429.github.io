@@ -1214,11 +1214,12 @@ section.lazy-placeholder:after {
   color: #073b4c;
 }
 .cid-s66iwLEgmE {
-  background: #ffffff;
+  background: #7289da;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-s66iwLEgmE .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s66iwLEgmE .video-block {
