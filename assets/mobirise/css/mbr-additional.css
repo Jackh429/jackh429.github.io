@@ -1213,19 +1213,6 @@ section.lazy-placeholder:after {
 .cid-s5p0GzYqYJ .plan-title {
   color: #073b4c;
 }
-.cid-s66iwLEgmE {
-  background: #7289da;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-s66iwLEgmE .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-s66iwLEgmE .video-block {
-    width: 100% !important;
-  }
-}
 .cid-s5oIIU7jrw {
   padding-top: 90px;
   padding-bottom: 0px;
