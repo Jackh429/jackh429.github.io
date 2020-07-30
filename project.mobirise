@@ -68,8 +68,8 @@
     "PWA": {
       "enabled": true,
       "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/t.gif",
-      "themeColor": "#232323"
+      "icon": "@PROJECT_PATH@/assets/images/t-1-512x512.png",
+      "themeColor": "#073b4c"
     },
     "pwa-switcher": true
   },
