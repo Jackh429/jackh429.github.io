@@ -2156,3 +2156,29 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-s6crVxQnBi {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-s6crVxQnBi .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s6crVxQnBi .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s6crVxQnBi .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s6crVxQnBi H1 {
+  color: #39ad31;
+}
+.cid-s6crVxQnBi H3 {
+  color: #5b686b;
+}
