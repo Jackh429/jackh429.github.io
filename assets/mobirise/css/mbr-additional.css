@@ -955,11 +955,6 @@ section.lazy-placeholder:after {
 .cid-s6aCR8TSdV .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 1024px) {
-  .cid-s6aCR8TSdV .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.8rem);
-  }
-}
 .cid-s6aCR8TSdV .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2014,11 +2009,6 @@ section.lazy-placeholder:after {
 .cid-s5or1DtJUM .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-s5or1DtJUM .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 1024px) {
-  .cid-s5or1DtJUM .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.8rem);
-  }
 }
 .cid-s5or1DtJUM .collapsed button.navbar-toggler {
   display: block;
