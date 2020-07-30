@@ -2156,29 +2156,32 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
-.cid-s6crVxQnBi {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #ffffff;
+.cid-s6eL7wGOSb {
+  background: #f0f0f0;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
-@media (min-width: 992px) {
-  .cid-s6crVxQnBi .mbr-figure {
-    padding-right: 4rem;
+.cid-s6eL7wGOSb .image-block {
+  margin: auto;
+}
+.cid-s6eL7wGOSb figcaption {
+  position: relative;
+}
+.cid-s6eL7wGOSb figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s6eL7wGOSb .image-block {
+    width: 100% !important;
   }
 }
-@media (max-width: 991px) {
-  .cid-s6crVxQnBi .mbr-figure {
-    padding-bottom: 3rem;
-  }
+.cid-s6eR3uBtoX {
+  padding-top: 0px;
+  padding-bottom: 135px;
+  background-color: #efefef;
 }
-@media (max-width: 767px) {
-  .cid-s6crVxQnBi .mbr-text {
-    text-align: center;
-  }
-}
-.cid-s6crVxQnBi H1 {
-  color: #39ad31;
-}
-.cid-s6crVxQnBi H3 {
-  color: #5b686b;
+.cid-s6eR3uBtoX P {
+  color: #767676;
 }
