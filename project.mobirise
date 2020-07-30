@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Cockpit",
-    "currentPage": "rules.html",
+    "currentPage": "404.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1837,6 +1837,12 @@
               "@media (max-width: 767px)": {
                 "text-align": "center"
               }
+            },
+            "H1": {
+              "color": "#073b4c"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#465052"
             }
           },
           "_name": "header3",
