@@ -1060,7 +1060,7 @@ a {
   }
 }
 .cid-s7v8tB4oaN {
-  padding-top: 8rem;
+  padding-top: 10rem;
   padding-bottom: 10rem;
   background-image: url("../../../assets/images/thecockpit-banner-960x540.jpg");
 }
@@ -1242,8 +1242,8 @@ a {
   color: #fafafa;
 }
 .cid-s7vbMbRSm1 {
-  padding-top: 15px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #223042;
 }
 .cid-s7vbMbRSm1 h4 {
@@ -1357,71 +1357,6 @@ a {
 .cid-s7vbMbRSm1 .header-text,
 .cid-s7vbMbRSm1 .sign {
   color: #fafafa;
-}
-.cid-s7v5pxxKRU {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #223042;
-}
-.cid-s7v5pxxKRU .mbr-flex {
-  display: flex;
-  justify-content: flex-end;
-}
-.cid-s7v5pxxKRU section {
-  position: relative;
-}
-.cid-s7v5pxxKRU h4 {
-  margin: 0;
-}
-.cid-s7v5pxxKRU a {
-  font-weight: 300;
-}
-.cid-s7v5pxxKRU .row {
-  align-items: center;
-}
-.cid-s7v5pxxKRU .item {
-  margin: 0 1.5rem;
-  display: flex;
-  align-items: center;
-}
-.cid-s7v5pxxKRU .item h4 {
-  padding-left: 10px;
-  margin: 0;
-}
-.cid-s7v5pxxKRU .img1 {
-  color: #ffffff;
-}
-.cid-s7v5pxxKRU .card-img {
-  width: auto;
-}
-@media (max-width: 992px) {
-  .cid-s7v5pxxKRU .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-s7v5pxxKRU .align-left,
-  .cid-s7v5pxxKRU .align-right {
-    text-align: center;
-  }
-  .cid-s7v5pxxKRU .mbr-flex {
-    justify-content: center;
-  }
-}
-@media (max-width: 767px) {
-  .cid-s7v5pxxKRU .mbr-flex {
-    flex-direction: column;
-    align-items: center;
-  }
-  .cid-s7v5pxxKRU .item {
-    padding-bottom: 0.5rem;
-  }
-}
-.cid-s7v5pxxKRU .item-title {
-  color: #c1c1c1;
-}
-.cid-s7v5pxxKRU H4 {
-  color: #c1c1c1;
 }
 .cid-s7sMuvdarJ .navbar {
   min-height: 77px;
@@ -1764,71 +1699,6 @@ a {
 }
 .cid-s7SO994bXo H4 {
   color: #fafafa;
-}
-.cid-s7v5pxxKRU {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #69255c;
-}
-.cid-s7v5pxxKRU .mbr-flex {
-  display: flex;
-  justify-content: flex-end;
-}
-.cid-s7v5pxxKRU section {
-  position: relative;
-}
-.cid-s7v5pxxKRU h4 {
-  margin: 0;
-}
-.cid-s7v5pxxKRU a {
-  font-weight: 300;
-}
-.cid-s7v5pxxKRU .row {
-  align-items: center;
-}
-.cid-s7v5pxxKRU .item {
-  margin: 0 1.5rem;
-  display: flex;
-  align-items: center;
-}
-.cid-s7v5pxxKRU .item h4 {
-  padding-left: 10px;
-  margin: 0;
-}
-.cid-s7v5pxxKRU .img1 {
-  color: #ffffff;
-}
-.cid-s7v5pxxKRU .card-img {
-  width: auto;
-}
-@media (max-width: 992px) {
-  .cid-s7v5pxxKRU .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-s7v5pxxKRU .align-left,
-  .cid-s7v5pxxKRU .align-right {
-    text-align: center;
-  }
-  .cid-s7v5pxxKRU .mbr-flex {
-    justify-content: center;
-  }
-}
-@media (max-width: 767px) {
-  .cid-s7v5pxxKRU .mbr-flex {
-    flex-direction: column;
-    align-items: center;
-  }
-  .cid-s7v5pxxKRU .item {
-    padding-bottom: 0.5rem;
-  }
-}
-.cid-s7v5pxxKRU .item-title {
-  color: #c1c1c1;
-}
-.cid-s7v5pxxKRU H4 {
-  color: #c1c1c1;
 }
 .cid-s7SZneBq3t .navbar {
   min-height: 77px;
@@ -2477,69 +2347,4 @@ a {
 }
 .cid-s7T0EdiOeS .mbr-section-title {
   color: #fafafa;
-}
-.cid-s7v5pxxKRU {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #223042;
-}
-.cid-s7v5pxxKRU .mbr-flex {
-  display: flex;
-  justify-content: flex-end;
-}
-.cid-s7v5pxxKRU section {
-  position: relative;
-}
-.cid-s7v5pxxKRU h4 {
-  margin: 0;
-}
-.cid-s7v5pxxKRU a {
-  font-weight: 300;
-}
-.cid-s7v5pxxKRU .row {
-  align-items: center;
-}
-.cid-s7v5pxxKRU .item {
-  margin: 0 1.5rem;
-  display: flex;
-  align-items: center;
-}
-.cid-s7v5pxxKRU .item h4 {
-  padding-left: 10px;
-  margin: 0;
-}
-.cid-s7v5pxxKRU .img1 {
-  color: #ffffff;
-}
-.cid-s7v5pxxKRU .card-img {
-  width: auto;
-}
-@media (max-width: 992px) {
-  .cid-s7v5pxxKRU .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-s7v5pxxKRU .align-left,
-  .cid-s7v5pxxKRU .align-right {
-    text-align: center;
-  }
-  .cid-s7v5pxxKRU .mbr-flex {
-    justify-content: center;
-  }
-}
-@media (max-width: 767px) {
-  .cid-s7v5pxxKRU .mbr-flex {
-    flex-direction: column;
-    align-items: center;
-  }
-  .cid-s7v5pxxKRU .item {
-    padding-bottom: 0.5rem;
-  }
-}
-.cid-s7v5pxxKRU .item-title {
-  color: #c1c1c1;
-}
-.cid-s7v5pxxKRU H4 {
-  color: #c1c1c1;
 }
