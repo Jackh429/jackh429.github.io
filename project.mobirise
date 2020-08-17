@@ -69,7 +69,7 @@
       "enabled": true,
       "name": "",
       "icon": "@PROJECT_PATH@/assets/images/logo-with-soft-border-512x512.png",
-      "themeColor": "#333333"
+      "themeColor": "#223042"
     }
   },
   "pages": {
