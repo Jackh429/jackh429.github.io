@@ -115,7 +115,7 @@ body {
   background-color: #cd6ce6 !important;
 }
 .bg-danger {
-  background-color: #7289da !important;
+  background-color: #223042 !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -229,8 +229,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #7289da !important;
-  border-color: #7289da !important;
+  background-color: #223042 !important;
+  border-color: #223042 !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -239,15 +239,15 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #4a67cf !important;
-  border-color: #4a67cf !important;
+  background-color: #111820 !important;
+  border-color: #111820 !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #4a67cf !important;
-  border-color: #4a67cf !important;
+  background-color: #111820 !important;
+  border-color: #111820 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -458,13 +458,13 @@ body {
 .btn-danger-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #7289da;
+  color: #223042;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
-  color: #4a67cf !important;
+  color: #111820 !important;
   background-color: transparent!important;
   border-color: transparent!important;
   box-shadow: none!important;
@@ -472,8 +472,8 @@ body {
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #7289da !important;
-  border-color: #7289da !important;
+  background-color: #223042 !important;
+  border-color: #223042 !important;
 }
 .btn-black-outline,
 .btn-black-outline:active,
@@ -519,7 +519,7 @@ body {
   color: #cd6ce6 !important;
 }
 .text-danger {
-  color: #7289da !important;
+  color: #223042 !important;
 }
 .text-white {
   color: #fafafa !important;
@@ -555,7 +555,7 @@ a.text-warning.active {
 a.text-danger:hover,
 a.text-danger:focus,
 a.text-danger.active {
-  color: #304eb6 !important;
+  color: #000000 !important;
 }
 a.text-white:hover,
 a.text-white:focus,
@@ -596,7 +596,7 @@ p a[class*="text-"]:not(.nav-link):not([role]):hover {
   background-color: #cd6ce6;
 }
 .alert-danger {
-  background-color: #7289da;
+  background-color: #223042;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -642,7 +642,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #88a1c2;
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
