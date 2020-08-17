@@ -1060,6 +1060,8 @@ a {
   }
 }
 .cid-s7v8tB4oaN {
+  padding-top: 8rem;
+  padding-bottom: 10rem;
   background-image: url("../../../assets/images/thecockpit-banner-960x540.jpg");
 }
 .cid-s7v8tB4oaN .mbr-text,
@@ -1073,8 +1075,8 @@ a {
   color: #ffffff;
 }
 .cid-s7sJP2EwV0 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #fafafa;
 }
 .cid-s7sJP2EwV0 .card {
@@ -1176,8 +1178,8 @@ a {
   color: #ffffff;
 }
 .cid-s7SB0oK1E7 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/capture-1825x818.png");
 }
 .cid-s7SB0oK1E7 .carousel-item {
