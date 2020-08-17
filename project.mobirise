@@ -55,7 +55,7 @@
     "uniqCompNum": 42,
     "versionPublish": "5.0.21",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-with-soft-border-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
