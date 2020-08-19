@@ -66,10 +66,7 @@
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "PWA": {
-      "enabled": true,
-      "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/logo-with-soft-border-512x512.png",
-      "themeColor": "#223042"
+      "enabled": false
     }
   },
   "pages": {
