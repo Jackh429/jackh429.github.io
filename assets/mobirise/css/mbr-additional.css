@@ -957,7 +957,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-s7sMuvdarJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1662,7 +1662,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-s7sMuvdarJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2109,7 +2109,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-s7sMuvdarJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2549,7 +2549,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-s7SZneBq3t button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2751,7 +2751,7 @@ a {
   outline: none;
 }
 .cid-s8a7R1Uv7M a.nav-link:focus {
-  color: #333333 !important;
+  color: #bbbbbb !important;
 }
 .cid-s8a7R1Uv7M .navbar {
   padding: .5rem;
@@ -2944,7 +2944,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-s8a7R1Uv7M button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3017,10 +3017,10 @@ a {
 }
 .cid-s8a7R1Uv7M .nav-link:hover,
 .cid-s8a7R1Uv7M .icons-menu .mbr-iconfont:hover {
-  color: #333333 !important;
+  color: #bbbbbb !important;
 }
 .cid-s8a7R1Uv7M .dropdown-item:hover {
-  color: #000000 !important;
+  color: #bbbbbb !important;
 }
 .cid-s8a7R1Uv7M .nav-item .nav-link::before {
   position: absolute;
@@ -3029,7 +3029,7 @@ a {
   bottom: 0rem;
   width: 0;
   left: -1rem;
-  background: #333333;
+  background: #bbbbbb;
   transition: width 0.3s ease-in;
 }
 .cid-s8a7R1Uv7M .dropdown-menu {
@@ -3055,7 +3055,7 @@ a {
     box-shadow: 0px 0px 0px #ffffff;
     background: rgba(255, 255, 255, 0.4);
     border-width: 0 0 4px 0;
-    border-color: #000000;
+    border-color: #bbbbbb;
   }
   .cid-s8a7R1Uv7M .dropdown-item:hover {
     background: #ffffff !important;
