@@ -8,13 +8,13 @@
  * Copyright (c) 2020 Animate.css
  */
 :root {
-  --animate-duration: 0.2s;
-  --animate-delay: 0.2s;
+  --animate-duration: 0.4s;
+  --animate-delay: 0.1s;
   --animate-repeat: 1;
 }
 .animate__animated {
-  -webkit-animation-duration: 0.4s;
-  animation-duration: 0.4s;
+  -webkit-animation-duration: var(--animate-duration)s;
+  animation-duration: var(--animate-duration);
   -webkit-animation-duration: var(--animate-duration);
   animation-duration: var(--animate-duration);
   -webkit-animation-fill-mode: both;
@@ -1829,27 +1829,27 @@
 @-webkit-keyframes fadeInDown {
   from {
     opacity: 0;
-    -webkit-transform: translate3d(0, -100%, 0);
-    transform: translate3d(0, -100%, 0);
+    -webkit-transform: translateY(0, 300px, 0);
+    transform: translateY(0, 300px, 0);
   }
 
   to {
     opacity: 1;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+    -webkit-transform: translateY(0, 0, 0);
+    transform: translateY(0, 0, 0);
   }
 }
 @keyframes fadeInDown {
   from {
     opacity: 0;
-    -webkit-transform: translate3d(0, -100%, 0);
-    transform: translate3d(0, -100%, 0);
+    -webkit-transform: translateY(0, 300px, 0);
+    transform: translateY(0, 300px, 0);
   }
 
   to {
     opacity: 1;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+    -webkit-transform: translateY(0, 0, 0);
+    transform: translateY(0, 0, 0);
   }
 }
 .animate__fadeInDown {
@@ -2009,27 +2009,27 @@
 @-webkit-keyframes fadeInUp {
   from {
     opacity: 0;
-    -webkit-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
+    -webkit-transform: translateY(150px);
+    transform: translateY(150px);
   }
 
   to {
     opacity: 1;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
   }
 }
 @keyframes fadeInUp {
   from {
     opacity: 0;
-    -webkit-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
+    -webkit-transform: translateY(150px);
+    transform: translateY(150px);
   }
 
   to {
     opacity: 1;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
   }
 }
 .animate__fadeInUp {
